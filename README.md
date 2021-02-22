@@ -20,6 +20,6 @@
 ## `Dashboard Page`
 ![Screenshot](https://github.com/Gaursafal/Todoist-Clone/blob/main/Screenshots/Screenshot%20(439).png)
 
-#`Deploy Link` - "https://gaursafal.github.io/Todoist-Clone/"
+#`Deploy Link` - https://gaursafal.github.io/Todoist-Clone/
 
 
